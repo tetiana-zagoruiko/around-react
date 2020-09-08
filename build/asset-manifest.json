@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ce75296.chunk.css",
-    "main.js": "/static/js/main.670e9591.chunk.js",
-    "main.js.map": "/static/js/main.670e9591.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.75c252d3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.75c252d3.js.map",
-    "static/js/2.bf6eef9d.chunk.js": "/static/js/2.bf6eef9d.chunk.js",
-    "static/js/2.bf6eef9d.chunk.js.map": "/static/js/2.bf6eef9d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.252c5f246d11c4b56a658d4ef61f0d3a.js": "/precache-manifest.252c5f246d11c4b56a658d4ef61f0d3a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6ce75296.chunk.css.map": "/static/css/main.6ce75296.chunk.css.map",
-    "static/js/2.bf6eef9d.chunk.js.LICENSE.txt": "/static/js/2.bf6eef9d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/remove.4220563a.svg",
-    "static/media/logo.svg": "/static/media/logo.8f7611ae.svg"
+    "main.css": "/around-react/static/css/main.55784886.chunk.css",
+    "main.js": "/around-react/static/js/main.e318fff7.chunk.js",
+    "main.js.map": "/around-react/static/js/main.e318fff7.chunk.js.map",
+    "runtime-main.js": "/around-react/static/js/runtime-main.9debff08.js",
+    "runtime-main.js.map": "/around-react/static/js/runtime-main.9debff08.js.map",
+    "static/js/2.bf6eef9d.chunk.js": "/around-react/static/js/2.bf6eef9d.chunk.js",
+    "static/js/2.bf6eef9d.chunk.js.map": "/around-react/static/js/2.bf6eef9d.chunk.js.map",
+    "index.html": "/around-react/index.html",
+    "precache-manifest.fc13ef6b1ad9c751ee31df801d61a19d.js": "/around-react/precache-manifest.fc13ef6b1ad9c751ee31df801d61a19d.js",
+    "service-worker.js": "/around-react/service-worker.js",
+    "static/css/main.55784886.chunk.css.map": "/around-react/static/css/main.55784886.chunk.css.map",
+    "static/js/2.bf6eef9d.chunk.js.LICENSE.txt": "/around-react/static/js/2.bf6eef9d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/around-react/static/media/remove.4220563a.svg",
+    "static/media/logo.svg": "/around-react/static/media/logo.8f7611ae.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75c252d3.js",
+    "static/js/runtime-main.9debff08.js",
     "static/js/2.bf6eef9d.chunk.js",
-    "static/css/main.6ce75296.chunk.css",
-    "static/js/main.670e9591.chunk.js"
+    "static/css/main.55784886.chunk.css",
+    "static/js/main.e318fff7.chunk.js"
   ]
 }
