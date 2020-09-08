@@ -9,7 +9,6 @@ It's a responsive single-page website with popups.
 **Description of the project and its functionality**
 
 The project is done in accordance with the brief requirements. 
-Stylesheets and images are located in separate folders and organized into blocks. Files are all organized within a Nested BEM structure. 
 
 **Description of technologies and techniques used**
 
