@@ -1,5 +1,5 @@
-# Project 10: Around The U.S.
-In this project, I'm porting my previous website "Around the U.S." to React using the declarative approach.
+# Project 11: Around The U.S.
+In this project, I've ported another part of "Around the U.S." website to React and learned to send form data and other information to the API.
 
 
 **About the project**
@@ -16,7 +16,7 @@ CSS: pseudo-elements, pseudo-classes, flexbox, grid layout.
 
 JS: working with CSS Classes, changing text content, form validation, code refactoring, modules.
 
-React: CRA; porting the markup, styles from HTML and CSS and converting them into JSX; components; hooks; connecting to API.
+React: CRA; porting the markup, styles from HTML and CSS and converting them into JSX; components; hooks; connecting to API; ref.
 
 **Project on GitHub Pages**
 
