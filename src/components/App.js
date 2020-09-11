@@ -4,7 +4,6 @@ import Main from './Main.js';
 import Footer from './Footer.js';
 import api from '../utils/Api.js';
 import CurrentUserContext from '../contexts/CurrentUserContext.js';
-import CardContext from '../contexts/CardContext.js';
 import EditProfilePopup from './EditProfilePopup.js';
 import EditAvatarPopup from './EditAvatarPopup.js';
 import AddPlacePopup from './AddPlacePopup.js';
@@ -86,7 +85,6 @@ function App() {
 
   return (
     <CurrentUserContext.Provider value={currentUser}>
-    <CardContext.Provider value={cards}>
     <div className="page">
       <Header />
       <Main onEditProfile={() => {
@@ -119,7 +117,6 @@ function App() {
         <EditAvatarPopup isOpen={isEditAvatarPopupOpen} onClose={closeAllPopups} onUpdateAvatar={handleUpdateAvatar} />
         <AddPlacePopup isOpen={isAddPlacePopupOpen} onClose={closeAllPopups} onAddPlace={handleAddPlaceSubmit} />
     </div>
-    </CardContext.Provider>
     </CurrentUserContext.Provider>
 );
 }
