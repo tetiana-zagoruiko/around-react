@@ -25,10 +25,7 @@ function App() {
     api.getUserInfo()
       .then(res => {
         setCurrentUser(res);
-      })
-  }, [])
-
-  React.useEffect(() => {
+      });
     api.getCardList()
       .then(res => {
         setCards(res);
