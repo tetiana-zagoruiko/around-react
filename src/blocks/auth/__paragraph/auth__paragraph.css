@@ -1,0 +1,9 @@
+.auth__paragraph {
+    position: relative;
+    margin: 15px auto 0 auto;
+    transition: opacity 0.3s linear;
+}
+
+.auth__paragraph:hover {
+    opacity: 0.6;
+}

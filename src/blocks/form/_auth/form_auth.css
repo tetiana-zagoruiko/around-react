@@ -1,0 +1,10 @@
+.form_auth {
+    border-radius: 0px;
+    background-color: black;
+    width: 358px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.15);
+    display: flex; 
+    flex-direction: column;
+}
+
+    
